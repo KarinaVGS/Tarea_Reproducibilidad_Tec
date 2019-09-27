@@ -3,7 +3,10 @@
 ## Si no saben que hace una línea, pueden escribirme o googlear la función
 ## Recuerden hacer comentarios usando #
 
+# Open library "tidyverse"
 library("tidyverse")
+library("readr")
+library("ggplot2")
 
 gap_5060<-readr::read_csv("https://raw.githubusercontent.com/mine-cetinkaya-rundel/reproducibility-uscots15/master/data/gapminder-5060.csv")
 

@@ -1,6 +1,6 @@
 # Tarea Reproducibilidad
 
-En primer lugar se debe correr el codigo install.R, con este codigo se instalaran todas las librerias necesarias para ejecutar el codigo que se encuentra en el archivo Code.R.
+En primer lugar se debe correr el código install.R, con este codigo se instalaran todas las librerias necesarias para ejecutar el código que se encuentra en el archivo Code.R.
 
 El programa trabaja con una base de datos que incluye datos demográficos de países de todo el mundo (país, continente, expectativa de vida,
 población y PIB per cápita). Filtra los datos para Canadá y los datos de América del Norte. Se cambia un dato correspondiente a la expectativa
